@@ -1,14 +1,22 @@
 {
-  "name": "npm-getting-started",
+  "name": "exo1node",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxime-baillon/exo1-node.git"
+  },
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxime-baillon/exo1-node/issues"
+  },
+  "homepage": "https://github.com/maxime-baillon/exo1-node#readme",
   "dependencies": {
-    "chalk": "^4.1.2"
+    "cowsay": "^1.5.0"
   }
 }
